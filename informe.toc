@@ -1,0 +1,46 @@
+\contentsline {part}{I\hspace {1em}Proyecto}{7}
+\contentsline {chapter}{\numberline {1}Organizacion}{9}
+\contentsline {section}{\numberline {1.1}Introduci\IeC {\'o}n}{9}
+\contentsline {section}{\numberline {1.2}Nombre}{10}
+\contentsline {subsection}{\numberline {1.2.1}Misi\IeC {\'o}n}{10}
+\contentsline {subsection}{\numberline {1.2.2}Visi\IeC {\'o}n}{10}
+\contentsline {subsection}{\numberline {1.2.3}Objetivos}{12}
+\contentsline {subsection}{\numberline {1.2.4}Organigrama}{12}
+\contentsline {subsection}{\numberline {1.2.5}Funciones}{12}
+\contentsline {subsection}{\numberline {1.2.6}Prodcuto}{13}
+\contentsline {chapter}{\numberline {2}Metodolog\IeC {\'\i }a}{15}
+\contentsline {section}{\numberline {2.1}Introducci\IeC {\'o}n}{15}
+\contentsline {section}{\numberline {2.2}Proceso}{15}
+\contentsline {section}{\numberline {2.3}Cronograma}{16}
+\contentsline {part}{II\hspace {1em}Arquitectura}{17}
+\contentsline {chapter}{\numberline {3}Negocio}{19}
+\contentsline {section}{\numberline {3.1}Introducci\IeC {\'o}n}{19}
+\contentsline {section}{\numberline {3.2}Negocio}{20}
+\contentsline {subsection}{\numberline {3.2.1}Organizacion}{20}
+\contentsline {subsection}{\numberline {3.2.2}Cooperacion de actor}{21}
+\contentsline {subsection}{\numberline {3.2.3}Funcion de negocio}{22}
+\contentsline {subsection}{\numberline {3.2.4}Proceso de negocio}{23}
+\contentsline {subsection}{\numberline {3.2.5}Cooperacion de proceso de negocio}{24}
+\contentsline {subsection}{\numberline {3.2.6}Producto}{25}
+\contentsline {chapter}{\numberline {4}Aplicacion}{27}
+\contentsline {section}{\numberline {4.1}Introducci\IeC {\'o}n}{27}
+\contentsline {section}{\numberline {4.2}Aplicacion}{28}
+\contentsline {subsection}{\numberline {4.2.1}Comportamiento aplicacion}{28}
+\contentsline {subsection}{\numberline {4.2.2}Cooperacion de aplicacion}{29}
+\contentsline {subsection}{\numberline {4.2.3}Estructura de apilcacion}{30}
+\contentsline {subsection}{\numberline {4.2.4}uso de aplicacion}{31}
+\contentsline {chapter}{\numberline {5}Tecnolog\IeC {\'\i }a}{33}
+\contentsline {chapter}{\numberline {6}Migraci\IeC {\'o}n}{35}
+\contentsline {chapter}{\numberline {7}Motivaci\IeC {\'o}n}{37}
+\contentsline {chapter}{\numberline {8}Estrategia}{39}
+\contentsline {part}{III\hspace {1em}Dise\IeC {\~n}o}{41}
+\contentsline {chapter}{\numberline {9}Creacionales}{43}
+\contentsline {section}{\numberline {9.1}Introducci\IeC {\'o}n}{43}
+\contentsline {section}{\numberline {9.2}Singleton}{44}
+\contentsline {subsection}{\numberline {9.2.1}Proposito}{44}
+\contentsline {subsection}{\numberline {9.2.2}Estructura}{44}
+\contentsline {subsection}{\numberline {9.2.3}Ejecucion}{45}
+\contentsline {subsection}{\numberline {9.2.4}C\IeC {\'o}digo}{45}
+\contentsline {chapter}{\numberline {10}Estructurales}{47}
+\contentsline {chapter}{\numberline {11}Comportamiento}{49}
+\contentsline {part}{IV\hspace {1em}Reflexiones}{51}

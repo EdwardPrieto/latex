@@ -1,0 +1,82 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {english}{}
+\defcounter {refsection}{0}\relax 
+\contentsline {part}{\@mypartnumtocformat {I}{Proyecto}}{7}{part.1}
+\ttl@starttoc {default@1}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {1}Organizacion}{9}{chapter.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.1}Introduci\IeC {\'o}n}{9}{section.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.2}Nombre}{9}{section.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.2.1}Misi\IeC {\'o}n}{9}{subsection.1.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.2.2}Visi\IeC {\'o}n}{9}{subsection.1.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.2.3}Objetivos}{10}{subsection.1.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.2.4}Organigrama}{10}{subsection.1.2.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.2.5}Funciones}{10}{subsection.1.2.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.2.6}Prodcuto}{10}{subsection.1.2.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {2}Metodolog\IeC {\'\i }a}{11}{chapter.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.1}Introducci\IeC {\'o}n}{11}{section.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.2}Proceso}{11}{section.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.3}Cronograma}{11}{section.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {part}{\@mypartnumtocformat {II}{Arquitectura}}{13}{part.2}
+\ttl@stoptoc {default@1}
+\ttl@starttoc {default@2}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {3}Negocio}{15}{chapter.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.1}Introducci\IeC {\'o}n}{15}{section.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.2}Organizaci\IeC {\'o}n}{16}{section.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2.1}Modelo}{16}{subsection.3.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2.2}Caso de Estudio}{17}{subsection.3.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {4}Aplicaci\IeC {\'o}n}{19}{chapter.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {5}Tecnolog\IeC {\'\i }a}{21}{chapter.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {6}Migraci\IeC {\'o}n}{23}{chapter.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {7}Motivaci\IeC {\'o}n}{25}{chapter.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {8}Estrategia}{27}{chapter.8}
+\defcounter {refsection}{0}\relax 
+\contentsline {part}{\@mypartnumtocformat {III}{Dise\IeC {\~n}o}}{29}{part.3}
+\ttl@stoptoc {default@2}
+\ttl@starttoc {default@3}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {9}Creacionales}{31}{chapter.9}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {9.1}Introducci\IeC {\'o}n}{31}{section.9.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {9.2}Singleton}{32}{section.9.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {9.2.1}Proposito}{32}{subsection.9.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {9.2.2}Estructura}{32}{subsection.9.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {9.2.3}Ejecucion}{32}{subsection.9.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {9.2.4}C\IeC {\'o}digo}{32}{subsection.9.2.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {10}Estructurales}{35}{chapter.10}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {11}Comportamiento}{37}{chapter.11}
+\defcounter {refsection}{0}\relax 
+\contentsline {part}{\@mypartnumtocformat {IV}{Reflexiones}}{39}{part.4}
+\ttl@stoptoc {default@3}
+\ttl@starttoc {default@4}
+\contentsfinish 
